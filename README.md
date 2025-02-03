@@ -14,3 +14,4 @@ This is a **modern, responsive, and interactive Image Gallery** built using **HT
 - **HTML5** – Structure of the gallery  
 - **CSS3** – Styling using Flexbox & Grid  
 - **JavaScript (ES6)** – Interactivity & event handling   
+![image](https://github.com/user-attachments/assets/2dad11af-4b5e-426c-84ee-68284dbbdbe4)
